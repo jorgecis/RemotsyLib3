@@ -10,8 +10,7 @@ matrix:
     #  env: TOXENV=py37
 
 install:
-  - pip install pylint pep8
-  - pip install jorgecis/requirements.txt
+  - pip install pylint pep8 aiohttp yarl
 
 before_script:
   - pylint --version
