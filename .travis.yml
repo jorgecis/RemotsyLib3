@@ -11,7 +11,7 @@ matrix:
 
 install:
   - pip install pylint pep8
-  - pip install jorgecis/RemotsyLib3/requirements.txt
+  - pip install jorgecis/remotsylib3/requirements.txt
 
 before_script:
   - pylint --version
