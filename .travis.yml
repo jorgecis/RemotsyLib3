@@ -11,6 +11,7 @@ matrix:
 
 install:
   - pip install pylint pep8
+  - pip install requirements.txt
 
 before_script:
   - pylint --version
