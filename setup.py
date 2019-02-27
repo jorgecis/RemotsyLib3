@@ -15,7 +15,7 @@ setup(
     version='0.0.1',
     description='A Remotsy lib for use the Restfull API',
     long_description=long_description,
-    url='https://github.com/jorgecis/remotsylib',
+    url='https://github.com/jorgecis/remotsylib3',
     author='Jorge Cisneros',
     author_email='jorge@remotsy.com',
     classifiers=[
@@ -31,10 +31,4 @@ setup(
     ],
     keywords='Remotsy infrared remote control smarthome',
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
-
-    #install_requires=['peppercorn'],  # Optional
-    #extras_require={  # Optional
-    #    'dev': ['check-manifest'],
-    #    'test': ['coverage'],
-    #},
 )
