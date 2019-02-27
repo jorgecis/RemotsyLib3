@@ -14,7 +14,7 @@ Example
 
 .. code-block:: python
 
-from remotsylib3.api_async import (API, run_remotsy_api_call)
+  from remotsylib3.api_async import (API, run_remotsy_api_call)
 
     if __name__ == "__main__":
 
