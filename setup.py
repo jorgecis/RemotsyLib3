@@ -16,8 +16,8 @@ setup(
     description='A Remotsy lib for use the Restfull API',
     long_description=long_description,
     url='https://github.com/jorgecis/remotsylib3',
-    author='Jorge Cisneros',
-    author_email='jorge@remotsy.com',
+    author='Jasmit Tarang',
+    author_email='jaytarang92@gmail.com',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',

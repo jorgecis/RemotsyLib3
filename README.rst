@@ -7,7 +7,7 @@ this a Python library to control the Remotsy device via Rest API.
 Installation
 ============
 
-  $ pip install remotsylib
+  $ pip install remotsylib3
 
 Example
 ========
